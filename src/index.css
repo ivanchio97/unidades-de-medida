@@ -45,7 +45,7 @@ body{
   background-color: #ae1d51;
 }
 
-@media only screen and (max-width: 370px){
+@media only screen and (max-width: 400px){
 
   .botones button{
     width:100px;
